@@ -3,6 +3,6 @@ public class charJ {
         String txt = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
         System.out.println("The length of the txt string is: " + txt.length());
 
-// java
+// java work
     }
 }
